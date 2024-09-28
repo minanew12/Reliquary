@@ -36,8 +36,6 @@ testing in the coming weeks.
 
 ## Installation
 
-This is a Foundry project. Get Foundry from [here](https://github.com/foundry-rs/foundry).
-
 Please run the following command in this project's root directory to enable pre-commit testing:
 
 ```bash
